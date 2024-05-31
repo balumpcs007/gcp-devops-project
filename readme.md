@@ -1,1 +1,4 @@
-# this is a repo for our GCP Devops Project.
+# Docker flask alication
+
+- This application writen by python
+- it shall be deployed on GKE
